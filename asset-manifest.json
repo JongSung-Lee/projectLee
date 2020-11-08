@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projectLee/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/projectLee/static/js/main.b218f8db.chunk.js",
+    "main.js.map": "/projectLee/static/js/main.b218f8db.chunk.js.map",
+    "runtime-main.js": "/projectLee/static/js/runtime-main.697b04db.js",
+    "runtime-main.js.map": "/projectLee/static/js/runtime-main.697b04db.js.map",
+    "static/js/2.c0a0a7e2.chunk.js": "/projectLee/static/js/2.c0a0a7e2.chunk.js",
+    "static/js/2.c0a0a7e2.chunk.js.map": "/projectLee/static/js/2.c0a0a7e2.chunk.js.map",
+    "static/js/3.c7b4a981.chunk.js": "/projectLee/static/js/3.c7b4a981.chunk.js",
+    "static/js/3.c7b4a981.chunk.js.map": "/projectLee/static/js/3.c7b4a981.chunk.js.map",
+    "index.html": "/projectLee/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/projectLee/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c0a0a7e2.chunk.js.LICENSE.txt": "/projectLee/static/js/2.c0a0a7e2.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/projectLee/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.697b04db.js",
+    "static/js/2.c0a0a7e2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b218f8db.chunk.js"
+  ]
+}
